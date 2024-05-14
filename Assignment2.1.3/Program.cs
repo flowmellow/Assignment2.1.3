@@ -57,7 +57,7 @@ namespace Assignment2._1._3
                 } 
             } while (readResult != "x" && readResult != "X");
 
-            // Code before adding user switch/user option
+            //  Code before adding user switch/user option
             //Console.WriteLine(SimpleMath.Add(1, 2));
             //Console.WriteLine(SimpleMath.Add(2.0m, 2.3m, 2.7m));
             //Console.WriteLine(SimpleMath.Multiply(3.5f, 3.5f));
